@@ -3,4 +3,4 @@ An education website that provides study materials for students who need to conv
 
 Beside the titles of the topics there are buttons with a robot icon that directs you to an ai chatbot made specifically for that topic.
 
-Website link: http://studybot.com/
+Website link: https://khawyusheng-hchs.github.io/NAIC-study-bot/
